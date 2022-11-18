@@ -6,11 +6,7 @@
     "phone": "(16) 99810-2850",
     "email": "brunojaen@outlook.com.br",
     "skills": {
-      "hardSkills": [
-        {
-          "name": "JavaScript",
-          "logo": "https://raw.githubusercontent.com/brunojaen/portfolio/main/data/imgs/js.png"
-        },
+      "hardSkills": [;        
         {
           "name": "Html",
           "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
@@ -18,7 +14,16 @@
         {
           "name": "CSS",
           "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "https://raw.githubusercontent.com/brunojaen/portfolio/main/data/imgs/js.png"
+        },
+        {
+          "name": "Nodejs",
+          "logo": "https://raw.githubusercontent.com/brunojaen/portfolio/main/data/imgs/nodejs.png"
         }
+
       ],
       "softSkills": [
         "Empatia",
