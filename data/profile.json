@@ -48,6 +48,11 @@
         "name": "Portfolio",
         "url": "https://github.com/brunojaen/portfolio",
         "github": true
+      },
+      {
+        "name": "Projeto Cadastro Crud",
+        "url": "https://github.com/brunojaen/Projeto-Cadastro-CRUD",
+        "github": true
       }
     ],
     "professionalExperience": [
