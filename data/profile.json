@@ -1,7 +1,7 @@
 {
   "name": "Bruno Jaen",
   "photo": "https://avatars.githubusercontent.com/u/86748458?v=4",
-  "job": "junior developer",
+  "job": "Junior Developer",
   "location": "Franca - SP",
   "phone": "(16) 99810-2850",
   "email": "brunojaen@outlook.com.br",
@@ -18,6 +18,10 @@
       {
         "name": "JavaScript",
         "logo": "https://raw.githubusercontent.com/brunojaen/portfolio/main/data/imgs/js.png"
+      },
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/brunojaen/portfolio/main/data/imgs/react.png"
       },
       {
         "name": "Nodejs",
